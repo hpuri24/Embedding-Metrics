@@ -1,4 +1,4 @@
-# Embedding-Metrics
+# Evaluation-Metrics
 Implementation of Word Overlap-based Metrics and Embedding-based Metrics for Dialogue Systems.
 
 ### Metrics
